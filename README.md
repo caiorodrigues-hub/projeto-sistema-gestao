@@ -1,6 +1,4 @@
 # 🛍️ Sistema de Gestão Comercial (Python)
-# 🛍️ Sistema de Gerenciamento Comercial (Python)
-
 Este projeto é um sistema de gerenciamento comercial desenvolvido em **Python**, utilizando estruturas como **listas e dicionários** para simular o controle de **clientes, produtos, estoque e vendas**.
 
 Ele tem como objetivo **treinar habilidades de lógica de programação, organização de código e boas práticas**, sendo também o primeiro passo para projetos maiores com banco de dados e interface gráfica.
