@@ -56,7 +56,7 @@ python main.py
 ```
 Este projeto foi desenvolvido por Caio Rodrigues, estudante de Ciência da Computação, como parte do processo de aprendizagem e construção de portfólio.
 
-# Linkedin: https://www.linkedin.com/in/caio-rodrigues02/
+## Linkedin: https://www.linkedin.com/in/caio-rodrigues02/
 
 📌 Próximos passos planejados para o projeto:
 - Conexão com banco de dados SQL (persistência de dados)
